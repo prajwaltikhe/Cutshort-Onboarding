@@ -1,6 +1,6 @@
-# cutshort
+# Cutshort by Prajwal
 # Eden - Onboarding Process 
-[ *Cutshort assignment* ](https://cutshortassignment.netlify.app/)
+[ *Cutshort Assignment* ](https://cutshortonboardingapp.web.app/)
 <br/>
 ## ⭐ Features
 
@@ -20,3 +20,4 @@
    ```
 
 ## 🎨 Design Mockup by Eren, [Onboarding](https://dribbble.com/shots/15669113-Onboarding-Exploration)
+## Made by Prajwal Tikhe
