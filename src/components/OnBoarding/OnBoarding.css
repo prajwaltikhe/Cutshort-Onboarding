@@ -1,0 +1,51 @@
+.form-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.tabHeader {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 0rem;
+}
+
+.tabHeader-main {
+  font-size: 2rem;
+  font-weight: 600;
+  color: var(--color-primary-text-dark);
+}
+
+.tabHeader-sub {
+  font-size: 1rem;
+  font-weight: 400;
+  color: var(--color-primary-text-medium);
+}
+
+.tab-three {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.cards-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+  height: 10rem;
+  gap: 4rem;
+}
+
+.tabFour {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.tabFour-img {
+  margin-bottom: 2rem;
+}
